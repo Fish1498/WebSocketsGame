@@ -1,0 +1,17 @@
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\bin\Release\netcoreapp3.1\GameServer.exe
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\bin\Release\netcoreapp3.1\GameServer.deps.json
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\bin\Release\netcoreapp3.1\GameServer.runtimeconfig.json
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\bin\Release\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\bin\Release\netcoreapp3.1\GameServer.dll
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\bin\Release\netcoreapp3.1\GameServer.pdb
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\obj\Release\netcoreapp3.1\staticwebassets\GameServer.StaticWebAssets.Manifest.cache
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\obj\Release\netcoreapp3.1\staticwebassets\GameServer.StaticWebAssets.xml
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\obj\Release\netcoreapp3.1\GameServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\obj\Release\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\obj\Release\netcoreapp3.1\GameServer.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\obj\Release\netcoreapp3.1\GameServer.RazorTargetAssemblyInfo.cache
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\obj\Release\netcoreapp3.1\GameServer.dll
+C:\Users\gabri\Desktop\Proiect Blana\GameServer\GameServer\obj\Release\netcoreapp3.1\GameServer.pdb
